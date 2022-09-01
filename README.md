@@ -23,7 +23,6 @@ The following image demonstrates the web application's appearance and functional
 * The z-index property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order.
 
 ## Submission
-[Relative Box Positioning]()
+[Relative Box Positioning](https://bslockhart.github.io/Class-Activity-5-CSS-Positioning/)
 
 ---
-
