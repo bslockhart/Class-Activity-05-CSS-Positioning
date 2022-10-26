@@ -3,6 +3,8 @@ Work with a partner to implement the following user story:
 * As a developer, I want to use the CSS `position` property to change the layout of my page.
 
 ## Acceptance Criteria
+The following image shows the web application's current appearance and functionality:
+![Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./assets/images/CurrentLayout.png)
 * It's done when `box 2` is positioned in the middle of `square 1` using relative positioning.
 * It's done when `box 2` is positioned outside of the upper-right corner of `square 2` using absolute positioning.
 * It's done when the finished page matches the mockup.  
